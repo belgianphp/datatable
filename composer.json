@@ -1,0 +1,19 @@
+{
+    "name": "belgian/datatable",
+    "authors": [
+        {
+            "name": "Estefanio NS",
+            "email": "estefanions@gmail.com"
+        }
+    ],
+    "require": {
+        "belgian/element": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Belgian\\DataTable\\": "Belgian/DataTable/"
+        }
+
+    }
+
+}

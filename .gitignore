@@ -1,0 +1,4 @@
+*.vim
+vendor/
+tags
+composer.lock
